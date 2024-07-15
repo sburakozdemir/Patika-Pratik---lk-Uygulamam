@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HelloWorld
+namespace IlkUyglulama
 {
     class program
 
@@ -8,7 +8,7 @@ namespace HelloWorld
         static void Main(string[] args)
 
         {
-            string metin = "Burak Özdemir" + Environment.NewLine + "Patika'nın eğitimleri ve uzman kadrosuyla yazılım sektörü gerekliliklerine ulaşmak için bu bootcampteyim. ";
+            string metin = "Burak Özdemir" + Environment.NewLine + "Patika'nın eğitimleri ve uzman kadrosuyla yazılım sektörü gerekliliklerine ulaşmak için bu bootcampteyim. "; // Yeni satıra geçmesi için Environment.NewLine özelliğini kullandım
             Console.WriteLine(metin);
         }
     }
