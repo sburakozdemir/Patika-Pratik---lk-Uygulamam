@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace IlkUyglulama
+namespace IlkUygulama
 {
     class program
 
